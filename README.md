@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassan
 - 👀 I’m interested in using data to drive business decisions
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data analysis projects
+- 💞️ I’m looking to collaborate on data analysis projects in business 
 - 📫 How to reach me: abu.alhadhan@gmail.com/+2348093191332
 
 <!---
